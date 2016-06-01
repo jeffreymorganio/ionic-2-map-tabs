@@ -1,4 +1,25 @@
 {
+  "name": "ionic-2-map-tabs",
+  "version": "1.0.0",
+  "description": "An example Ionic 2 app written in TypeScript that demonstrates how to use Google maps and LeafletJS maps.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UsabilityEtc/ionic-2-map-tabs.git"
+  },
+  "author": {
+    "name": "Jeffrey Morgan",
+    "email": "usabilityetc@gmail.com",
+    "url": "http://usabilityetc.com"
+  },
+  "keywords": [
+    "Ionic 2",
+    "TypeScript",
+    "Maps",
+    "Google",
+    "Leaflet",
+    "Tabs"
+  ],
   "dependencies": {
     "@angular/common": "^2.0.0-rc.1",
     "@angular/compiler": "^2.0.0-rc.1",
