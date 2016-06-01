@@ -32,8 +32,7 @@ export class Google {
    private addMarker() {
     new google.maps.Marker({
       map: this.map,
-      position: this.eiffelTower//,
-      // animation: google.maps.Animation.DROP
+      position: this.eiffelTower
     })
   }
 
